@@ -61,7 +61,7 @@ class Home extends React.Component {
 
     return (
       <div>
-        <header>
+        <header className="header">
           <div>
             <form>
               <input
